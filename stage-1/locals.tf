@@ -24,6 +24,7 @@ locals {
         users = [
           "denys.platon",
           "ivan.petrenko",
+          "serhii.slobodain",
         ]
       }
     }
